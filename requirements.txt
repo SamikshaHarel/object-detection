@@ -1,0 +1,13 @@
+torch
+torchvision
+opencv-python
+numpy
+matplotlib
+tqdm
+ultralytics
+sort
+googletrans
+httpx>=0.25.0
+googletrans==4.0.0rc1
+jupyterlab==4.2.4
+
